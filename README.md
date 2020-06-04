@@ -7,13 +7,13 @@
   大规模爬取需要自行扩展
 
 ## 结构  
-  1.Font_decryption.py 列表页字体库解析模块
-  2.Font_svg.py 详情页svg文字映射解析模块
-  3.ip_poll 代理池
-  4.list_page_req.py 列表页请求模块 
-  5.mysql_model.py mysql增删改查封装
-  6.save_fontlist.py 文字映射表 写死 
-  7.spider_main.py 详情页请求模块
+  1.Font_decryption.py 列表页字体库解析模块  
+  2.Font_svg.py 详情页svg文字映射解析模块  
+  3.ip_poll 代理池  
+  4.list_page_req.py 列表页请求模块  
+  5.mysql_model.py mysql增删改查封装  
+  6.save_fontlist.py 文字映射表 写死  
+  7.spider_main.py 详情页请求模块  
   
   
 ## 配置  
